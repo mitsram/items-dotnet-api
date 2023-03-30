@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "B0m6yJQhfPFU2U/VmU7UY7dWYQ9RWY9hI1i8NbeXJcwMbAi3KSPyWIDsfK4Gz/vOZ10OwTlQl+Q+vclaPNq7iQ==",
+  "dgSpecHash": "ipViJQAFTw1M7yjun9RUKc58cZT38mdS64a4fXfB9PIpXyXtbRY7tp9e9iaFc+gQWmG56KCBro/5Q1vEy1495w==",
   "success": true,
   "projectFilePath": "/Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Infrastructure/Items.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mitsram/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

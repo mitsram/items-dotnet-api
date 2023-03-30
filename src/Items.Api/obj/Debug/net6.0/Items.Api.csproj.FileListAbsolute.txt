@@ -5,16 +5,11 @@
 /Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/bin/Debug/net6.0/Items.Api.runtimeconfig.json
 /Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/bin/Debug/net6.0/Items.Api.dll
 /Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/bin/Debug/net6.0/Items.Api.pdb
-/Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/bin/Debug/net6.0/Microsoft.OpenApi.dll
-/Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
-/Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/obj/Debug/net6.0/Items.Api.csproj.AssemblyReference.cache
 /Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/obj/Debug/net6.0/Items.Api.GeneratedMSBuildEditorConfig.editorconfig
 /Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/obj/Debug/net6.0/Items.Api.AssemblyInfoInputs.cache
 /Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/obj/Debug/net6.0/Items.Api.AssemblyInfo.cs
 /Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/obj/Debug/net6.0/Items.Api.csproj.CoreCompileInputs.cache
-/Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/obj/Debug/net6.0/Items.Api.MvcApplicationPartsAssemblyInfo.cs
 /Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/obj/Debug/net6.0/Items.Api.MvcApplicationPartsAssemblyInfo.cache
 /Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/obj/Debug/net6.0/staticwebassets.build.json
 /Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/obj/Debug/net6.0/staticwebassets.development.json
@@ -33,3 +28,4 @@
 /Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/bin/Debug/net6.0/Items.Application.pdb
 /Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/bin/Debug/net6.0/Items.Infrastructure.pdb
 /Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/bin/Debug/net6.0/Items.Domain.pdb
+/Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
