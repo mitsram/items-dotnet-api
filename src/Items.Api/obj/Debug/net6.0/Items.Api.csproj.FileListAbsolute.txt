@@ -29,3 +29,14 @@
 /Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/obj/Debug/net6.0/Items.Api.pdb
 /Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/obj/Debug/net6.0/Items.Api.genruntimeconfig.cache
 /Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/obj/Debug/net6.0/ref/Items.Api.dll
+/Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/bin/Debug/net6.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/mitsram/Projects/mitsram/items-dotnet-api/src/Items.Api/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
