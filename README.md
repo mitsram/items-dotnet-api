@@ -47,10 +47,10 @@ The API will be accessible at http://localhost:8080.
 ## Project Structure
 The project follows the Clean Architecture pattern, organized into the following main folders:
 
-* src/Items.API: The API layer responsible for handling HTTP requests and responses.
-* src/Items.Application: The application layer containing business logic and use cases.
-* src/Items.Domain: The domain layer containing entities, value objects, and domain services.
-* src/Items.Infrastructure: The infrastructure layer providing data access, external service integrations, and cross-cutting concerns.
+* `src/Items.API`: The API layer responsible for handling HTTP requests and responses.
+* `src/Items.Application`: The application layer containing business logic and use cases.
+* `src/Items.Domain`: The domain layer containing entities, value objects, and domain services.
+* `src/Items.Infrastructure`: The infrastructure layer providing data access, external service integrations, and cross-cutting concerns.
 
 ## Technologies Used
 * ASP.NET Core X.X: Web framework for building APIs.
