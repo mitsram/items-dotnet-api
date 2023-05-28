@@ -1,6 +1,6 @@
 # items-dotnet-api
 
-Welcome to the MyProject API! This project follows the Clean Architecture principles and is built with .NET Core.
+This project follows the Clean Architecture principles and is built with .NET Core.
 
 > **NOTE: THIS PROJECT IS STILL IN PROGRESS**
 > ~
